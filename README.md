@@ -1,4 +1,10 @@
-# PwnDoc-ng
+# PwnDoc-ng (pt-br)
+
+Versão do projeto pwndoc-ng com suporte para o idioma português brasileiro (pt-BR) abrangendo:
+- Interface
+- CVSS
+- DB de vulnerabilidades (precisa fazer upload)
+
 
 <img src='/docs/_images/logo_text.png' width="200px" />
 
