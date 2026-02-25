@@ -5,6 +5,15 @@
 PwnDoc-ng is a pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report. It is based on original fork of [PwnDoc](https://github.com/pwndoc/pwndoc) work by [yeln4ts](https://github.com/yeln4ts).
 The main goal is to have more time to **Pwn** and less time to **Doc** by mutualizing data like vulnerabilities between users.
 
+**This fork introduces the complete Brazilian Portuguese (pt-BR) translation to the project, making the tool more accessible to the Portuguese-speaking cybersecurity community.**
+
+Changes made:
+
+Added pt-BR translations for the main frontend interface (index.js).
+
+Added pt-BR translations for the CVSS metrics (pt.json).
+
+Updated the Vue language selector component to include the new pt-BR option.
 
 | Example Template  | Generated document |
 | ------------- | ------------- |
