@@ -1,0 +1,6 @@
+services:
+  pwndocng:
+    image: pwndocng
+    build:
+      context: .
+      dockerfile: ./Dockerfile
