@@ -4,6 +4,9 @@ Versão do projeto pwndoc-ng com suporte para o idioma português brasileiro (pt
 - Interface
 - CVSS
 - DB de vulnerabilidades (precisa fazer upload)
+  - Traduzido das versões inglês e espanhol
+    https://github.com/pwndoc-ng/pwndoc-ng-database e https://github.com/LuemmelSec/PwnDoc-Vulns
+  - vuln_db_OWASP_WSTG_CWE_ASVS_pt-br.json contém customFields. Para utilizá-lo deve-se criar os campos e substituir os IDs pelos correspondentes.
 
 
 <img src='/docs/_images/logo_text.png' width="200px" />
